@@ -1,0 +1,20 @@
+.ticker{
+    background-color: aqua;
+    width: 350px;
+    height: 600px;
+    border:3px solid black;
+    overflow: hidden;
+    border-radius: 15px;
+    
+}
+ul{
+    margin: 1x;
+    padding:1px;
+    
+}
+li{
+    text-align: justify;
+    list-style-type: none;
+    border-bottom: 2px solid black;
+    height: 110px;
+}
